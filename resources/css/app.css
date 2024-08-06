@@ -1,0 +1,5 @@
+.product-image {
+    width: 100%; /* Makes the image responsive */
+    height: 200px; /* Fixed height */
+    object-fit: cover; /* Ensures the image covers the specified height and width */
+}
